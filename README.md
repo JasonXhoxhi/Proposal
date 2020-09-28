@@ -34,6 +34,7 @@ Can be seen just by dragging the html file into a new tab of any browser.
 Deezer API: https://rapidapi.com/deezerdevs/api/deezer-1
 
 Experience with web technologies such as but not limited to (php, html, javascript, css) or differnt frameworks if decided by the team such as (react, django)
+
 Experice working with databases
 ### Whiteboard Proposal
-![ScreenShot](proposalslide.png)
+![ScreenShot](propslide.png)
