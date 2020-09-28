@@ -1,4 +1,4 @@
-# Playlist Me
+# HydroPlaylist
 ### Abstract
 A user-based web application in which users will be able to login and then choose a music genre or go with completely random choices.
 It will play 30 second music snippets and give users the option to like or dislike the song. 
@@ -25,3 +25,5 @@ The application will be built using some kind of framework and will have user ac
 Page data will load specific to users and allow the browsing of previous playlists as well as the playlists of other users through the database. 
 ### Resources
 Deezer API: https://rapidapi.com/deezerdevs/api/deezer-1
+### Whiteboard Proposal
+![ScreenShot](proposalslide.png)
