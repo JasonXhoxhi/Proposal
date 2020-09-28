@@ -9,7 +9,7 @@ It will also have data about the artist, the song, and how quickly they pressed 
 They will be able to see other playlists they made that have been stored from their other runs. 
 They will also be able to see other users who ended up with the same playlist as well and be able to browse other users’ playlists. 
 Lastly, there will be a trending page which shows the songs with the most likes from users for different periods of time. 
-![ScreenShot](ProposalDiagram.png)
+![ScreenShot](PropDiagram.png)
 ### Project Relevance
 The project will be implementing many of the areas of focus of the course. 
 Implementing it will require using version control and project management to develop and work on the application as a team also giving experience in working as a group. 
@@ -23,7 +23,17 @@ Requests will be made to get each song as the users are going through.
 The data will be updated after each song in order to have all of the data to make the playlist at the end. 
 The application will be built using some kind of framework and will have user accounts that can use the application to generate playlists which will then be stored into a database to use in relation to the accounts. 
 Page data will load specific to users and allow the browsing of previous playlists as well as the playlists of other users through the database. 
-### Resources
+### Background
+Project URL: https://github.com/JasonXhoxhi/Proposal
+
+This is just a sample index page the users will hit after logging in. Currently just shows the header and then that there will be buttons displayed to seclect the type of music genre they will be sampling from.
+
+Can be seen just by dragging the html file into a new tab of any browser.
+
+## Resources
 Deezer API: https://rapidapi.com/deezerdevs/api/deezer-1
+
+Experience with web technologies such as but not limited to (php, html, javascript, css) or differnt frameworks if decided by the team such as (react, django)
+Experice working with databases
 ### Whiteboard Proposal
 ![ScreenShot](proposalslide.png)
